@@ -32,7 +32,7 @@ python3 -m bnc_coca_list --input ./data/BNC_COCA_lists.csv --output the-bnc-coca
 
 ### Building `.dictionary`
 
-Follow the [AppleDict instructions](https://github.com/ilius/pyglossary/blob/master/doc/apple.md) provided by [pyglossary](https://github.com/ilius/pyglossary) to create a `.dictionary` file for the built-in Dictionary app on macOS.
+Follow the [AppleDict instructions](https://github.com/ilius/pyglossary/blob/master/doc/apple.md) provided by [pyglossary](https://github.com/ilius/pyglossary) to convert the `.mdx` file into `.dictionary` format for the built-in Dictionary app on macOS.
 
 ## Additional Information
 
